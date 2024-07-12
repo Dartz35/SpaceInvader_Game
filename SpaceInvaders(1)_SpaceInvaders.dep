@@ -1,0 +1,14 @@
+Dependencies for Project 'SpaceInvaders(1)', Target 'SpaceInvaders': (DO NOT MODIFY !)
+F (.\startup.s)(0x583079A9)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\Nokia5110.c)(0x61CCAB7F)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (Nokia5110.h)(0x61113D67)
+F (.\random.s)(0x583079AA)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123--list .\random.lst --xref -o .\random.o --depend .\random.d)
+F (.\SpaceInvaders.c)(0x63AC7192)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\spaceinvaders.o --omf_browse .\spaceinvaders.crf --depend .\spaceinvaders.d)
+I (Nokia5110.h)(0x61113D67)
+I (..//tm4c123gh6pm.h)(0x583079A0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x51C86004)
+I (Random.h)(0x583079AA)
+I (TExaS.h)(0x583079A9)
+F (.\TExaS.c)(0x583079A9)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\texas.o --omf_browse .\texas.crf --depend .\texas.d)
+I (TExaS.h)(0x583079A9)
+F (.\WavFile.c)(0x6060FF6A)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\wavfile.o --omf_browse .\wavfile.crf --depend .\wavfile.d)

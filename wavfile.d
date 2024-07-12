@@ -1,0 +1,1 @@
+.\wavfile.o: WavFile.c

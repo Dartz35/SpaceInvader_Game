@@ -1,0 +1,7 @@
+--create .\SpaceInvaders.lib
+.\startup.o
+.\nokia5110.o
+.\random.o
+.\spaceinvaders.o
+.\texas.o
+.\wavfile.o
